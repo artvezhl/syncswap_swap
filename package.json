@@ -1,0 +1,17 @@
+{
+  "name": "syncswap_activity",
+  "version": "1.0.0",
+  "description": "emulation of syncswap activity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "5.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17"
+  }
+}
