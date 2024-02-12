@@ -3,7 +3,6 @@ const ethers = require('ethers');
 const abi = require('./abi.json');
 const factoryAbi = require('./factoryAbi.json');
 const readline = require('readline');
-// const privateKey = '86e031ced436af56f926ee3832982c0ef93460ea5b411b2a132daf4d4d6b5d1e';
 const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000';
 const CONTRACT_ADDRESS = '0x80e38291e06339d10aab483c65695d004dbd5c69';
 const FACTORY_LP_ADDRESS = '0x37BAc764494c8db4e54BDE72f6965beA9fa0AC2d';
